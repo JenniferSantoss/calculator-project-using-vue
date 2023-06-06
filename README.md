@@ -1,4 +1,6 @@
-# calculator
+# Calculator Project Preview
+[Visualize-aqui-projeto-funcionando.webm](https://github.com/JenniferSantoss/calculator-project-using-vue/assets/123119520/21b76b84-e2e0-4ebf-adb2-ee9c18cd62fb)
+
 
 ## Project setup
 ```
